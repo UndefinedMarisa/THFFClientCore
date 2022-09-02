@@ -2,7 +2,7 @@
 
 # CnCNet 客户端 #
 
-MonoGame / XNA CnCNet 客户端，一个在线和离线玩经典命令与征服游戏及其模组的平台。支持使用 [a CnCNet 游戏生成器](https://github.com/CnCNet/ts-patches) 设置和启动单人游戏和多人游戏。包括一个基于 IRC 的聊天客户端，具有私人消息传递、朋友列表、可配置的游戏大厅、灵活和可修改的 UI 图形等高级功能，以及游戏设置配置和跟踪比赛统计数据等附加功能。以及更多！
+MonoGame / XNA CnCNet 客户端，一个在线和离线玩经典命令与征服游戏及其模组的平台。支持使用 [一个 CnCNet 游戏生成器](https://github.com/CnCNet/ts-patches) 设置和启动单人游戏和多人游戏。包括一个基于 IRC 的聊天客户端，具有私人消息传递、朋友列表、可配置的游戏大厅、灵活和可修改的 UI 图形等高级功能，以及游戏设置配置和跟踪比赛统计数据等附加功能。以及更多！
 
 目标
 --------
@@ -16,7 +16,7 @@ MonoGame / XNA CnCNet 客户端，一个在线和离线玩经典命令与征服�
 * [CnCNet 尤里的复仇](https://cncnet.org/yuris-revenge)
 
 
-但是，客户端没有任何限制可以阻止将其合并到其他项目中。可以支持任何将 CnCNet 生成器用于 Tiberian Sun 和 Red Alert 2 的游戏或模组项目。其他几个项目也使用客户端或它的非官方分支，包括 [Tiberian Sun Client](https://www.moddb.com/mods/tiberian-sun-client)、[Project Phantom](https://www.moddb.com/mods/project-phantom), [YR Red-Resurrection](https://www.moddb.com/mods/yr-red-resurrection), [第二次泰伯利亚战争](https://www.moddb.com/mods/the-second-tiberium-war) 和 [CnC: Final War](https://www.moddb.com/mods/cncfinalwar)。
+但是，客户端没有任何限制可以阻止将其合并到其他项目中。可以支持任何将 CnCNet 生成器用于 Tiberian Sun 和 Red Alert 2 的游戏或模组项目。其他几个项目也使用客户端或它的非官方分支，包括 [Tiberian Sun Client](https://www.moddb.com/mods/tiberian-sun-client)、[Project Phantom](https://www.moddb.com/mods/project-phantom), [YR Red-Resurrection](https://www.moddb.com/mods/yr-red-resurrection), [第二次泰伯利亚战争](https://www.moddb.com/mods/the-second-tiberium-war) 和 [CnC: 最终战争](https://www.moddb.com/mods/cncfinalwar)。
 
 要求
 ------------
