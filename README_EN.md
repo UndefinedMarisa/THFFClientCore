@@ -1,4 +1,4 @@
-# Written at the top: This warehouse is a dedicated client for THFF, if you need to modify it, please go to the [Original Repository](#Original%20Repository) #
+# Written at the top: This warehouse is a dedicated client for THFF, if you need to modify it, please go to the [Original Repository](#original-repository) #
 
 # CnCNet Client #
 
